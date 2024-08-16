@@ -518,10 +518,10 @@ AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=0
+ExportBOM=-1
 TemplateFilename=
 TemplateStoreRelative=-1
-PCB_PrintColor=2
+PCB_PrintColor=0
 SCH_PrintColor=0
 PrintQuality=-3
 SCH_ShowNoErc=-1
@@ -1540,5 +1540,7 @@ Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintA
 Configuration_Name2=OutputConfigurationParameter2
 Configuration_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\chinchilla\Documents\Altium\buoy\буй\буектополгия.PcbDoc
 Configuration_Name3=OutputConfigurationParameter3
-Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\chinchilla\Documents\Altium\buoy\буй\буектополгия.PcbDoc
+Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|LayerSet=All Layers|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\chinchilla\Documents\Altium\buoy\буй\буектополгия.PcbDoc
+Configuration_Name4=OutputConfigurationParameter4
+Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\chinchilla\Documents\Altium\buoy\буй\буектополгия.PcbDoc
 
